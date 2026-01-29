@@ -1,0 +1,55 @@
+h1 {
+	text-align: center;	
+}
+
+h2{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+body{
+	background-color: lightblue;
+}
+
+#paragraph2{
+	background-color:white;
+	width: 875px;
+	padding: 25px;
+	margin: 20px;
+	border: 5px solid green;
+	line-height: 25px;
+}
+	
+p.blue{
+		color: white;
+		background-color: darkblue;
+		padding: 15px;
+}
+
+ol {
+	font-size: 20px;
+	list-style-type: decimal-leading-zero;
+}
+
+a.link1{
+	color: purple;
+}
+
+table,th,td {
+	border-collapse: collapse;
+	border: 2px solid;
+	
+}
+th{
+	font-weight: bold;
+	background-color: lightgray;
+	
+}
+
+
+td{
+	background-color: white;
+	padding: 10px;
+	
+	
+}
